@@ -29,32 +29,17 @@
 ### 安装步骤
 
 1. 克隆仓库：
-   bash
-
-   复制
-
-   下载
 
    ```
    git clone https://github.com/yourusername/jwt-sword.git
    cd jwt-sword
    ```
 2. 安装依赖：
-   bash
-
-   复制
-
-   下载
 
    ```
    pip install pyjwt
    ```
 3. 运行工具：
-   bash
-
-   复制
-
-   下载
 
    ```
    python jwt-sword.py -j <JWT>
