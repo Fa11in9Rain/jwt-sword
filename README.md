@@ -31,7 +31,7 @@
 1. 克隆仓库：
 
    ```
-   git clone https://github.com/yourusername/jwt-sword.git
+   git clone https://github.com/Fa11in9Rain/jwt-sword.git
    cd jwt-sword
    ```
 2. 安装依赖：
